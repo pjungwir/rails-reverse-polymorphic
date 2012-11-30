@@ -1,4 +1,4 @@
-== Rails Reverse Polymorphic Example
+# Rails Reverse Polymorphic Example
 
 This project demonstrates how to write a many-to-many relationship in ActiveRecord that uses a polymorphic join table, e.g. if you have many things that need to be tagged. Our schema looks like this:
 
